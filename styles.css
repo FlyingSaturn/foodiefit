@@ -36,13 +36,13 @@ body {
   color:#e6cb90;
 }
 .nav-links a:visited {
-    color: #cea882;
+    color: #CBB564;
 }
 .nav-links a:hover, .logo a:hover {
   color: #FDE17C;
 }
 .nav-links a:active, .logo a:active {
-  color: #AB8865;
+  color: #cea882;
 }
 
 /* Responsive (hamburger menu behavior if needed) */
